@@ -20,4 +20,4 @@ This repository demonstrates my workflow using a coding assistant along with Git
 - Updated README with video link
 
 ## Video Walkthrough
-[PASTE YOUR YOUTUBE LINK HERE]
+[https://youtu.be/60XxR1g5dT8]
